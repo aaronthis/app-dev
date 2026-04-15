@@ -26,4 +26,4 @@ My first repository
 - [x] Fiction
 - [x] Horror
 - [x] Tragedy
-- [] Peace and Happiness
+- [ ] Peace and Happiness
